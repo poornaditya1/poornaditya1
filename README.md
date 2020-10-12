@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects especially in python and ML
 - 💬 Ask me about ML, Python and IOT
 - ⚡ Fun fact: When it comes to everything, I know nothing about it
-- 📫 How to reach me: Just ping me (and hope that I am awake 
+- 📫 How to reach me: Just ping me (and hope that I am awake )
 
 
 
