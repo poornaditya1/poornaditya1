@@ -5,9 +5,10 @@
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 <br/>
 
-I am an Automation and Robotics engineer in the making with an enthusiasm to learn new things and 
+Well, if you are reading this, you probably know about me. In case, you don't know me, just keep reading below and check out my profiles
 
-Well, if you are reading this, you probable know about me. In case, you don't know me, just keep reading below and check out my profiles
+
+I am an Automation and Robotics engineer in the making with an enthusiasm to learn new things and think outside the box
 
 <!--
 **poornaditya1/poornaditya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,14 +28,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine learning and Neural Networks
 - 👯 I’m looking to collaborate on open source projects especially in python and ML
 - 💬 Ask me about ML, Python and IOT
-- ⚡ Fun fact: When it somes to everything, I know nothing about it
+- ⚡ Fun fact: When it comes to everything, I know nothing about it
+- 📫 How to reach me: Just ping me (and hope that I am awake 
 
 
 
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poornaditya1&show_icons=true&theme=dracula)
+![Poornaditya's github stats](https://github-readme-stats.vercel.app/api?username=poornaditya1&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poornaditya1)
 
