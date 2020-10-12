@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello World 👋
+
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+<br/>
+
+I am an Automation and Robotics engineer in the making with an enthusiasm to learn new things and 
+
+Well, if you are reading this, you probable know about me. In case, you don't know me, just keep reading below and check out my profiles
 
 <!--
 **poornaditya1/poornaditya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Machine learning and Neural Networks
+- 👯 I’m looking to collaborate on open source projects especially in python and ML
+- 💬 Ask me about ML, Python and IOT
+- ⚡ Fun fact: When it somes to everything, I know nothing about it
+
+
+
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=poornaditya1&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poornaditya1)
+
+
+
+[website]: https://poornaditya1.github.io/
+[instagram]: https://www.instagram.com/the_dystopic_utopian/
+[linkedin]: https://www.linkedin.com/in/poornaditya/
+
+
+
+
+
+![Profile views](https://gpvc.arturio.dev/poornaditya1)  <img src="https://img.shields.io/github/followers/poornaditya1?label=Follow" style=" float:left, margin-right:10px" />
