@@ -8,7 +8,7 @@
 Well, if you are reading this, you probably know about me. In case, you don't know me, just keep reading below and check out my profiles
 
 
-I completed my Bachelor's in Automation and Robotics engineer in the making with an enthusiasm to learn new things and think outside the box. I am currently pursuing my MS in Artificial Intelligence from University of Michigan - Dearborn.
+I completed my Bachelor's in Automation and Robotics engineer. I am currently pursuing my MS in Artificial Intelligence from University of Michigan - Dearborn.
 
 <!--
 **poornaditya1/poornaditya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
